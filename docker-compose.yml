@@ -1,0 +1,30 @@
+version: '2'
+services: 
+  web:
+      image: nginx:latest
+      restart: always
+      ports:
+          - "80:80"
+      volumes:
+          - ./app:/var/www
+          - ./site.conf:/etc/nginx/conf.d/default.conf
+      links:
+          - php
+          - mysql
+  php:
+    build: php
+    container_name: php_web
+    ports:
+      - "9000:9000"
+    volumes:
+        - ./app:/var/www
+    links: 
+        - mysql
+  mysql: 
+      container_name: docker-mysql
+      image: mysql:5.6.26
+      ports: 
+        - "3306:3306"
+      environment:
+        - MYSQL_DATABASE=root
+        - MYSQL_ROOT_PASSWORD=root
