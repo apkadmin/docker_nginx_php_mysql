@@ -1,0 +1,681 @@
+# Copyright (C) 2020 Variation Swatches for WooCommerce - Pro
+# This file is distributed under the same license as the Variation Swatches for WooCommerce - Pro package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Variation Swatches for WooCommerce - Pro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: ThemeHippo <themehippo@gmail.com>\n"
+"Last-Translator: Emran Ahmed <emran.bd.08@gmail.com>\n"
+"Report-Msgid-Bugs-To: https://github.com/EmranAhmed/woo-variation-swatches/issues\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../includes/class-woo-variation-swatches-pro-product-meta.php:33
+msgid "Swatches Settings"
+msgstr ""
+
+#: ../includes/class-woo-variation-swatches-pro-product-meta.php:68
+msgid "Custom"
+msgstr ""
+
+#: ../includes/class-woo-variation-swatches-pro-product-meta.php:138
+msgid "Catalog mode attribute"
+msgstr ""
+
+#: ../includes/class-woo-variation-swatches-pro-product-meta.php:144, ../includes/class-woo-variation-swatches-pro-product-meta.php:163, ../includes/html-product-attribute.php:44, ../includes/html-product-attribute.php:56, ../includes/html-product-attribute.php:69
+msgid "Global"
+msgstr ""
+
+#: ../includes/class-woo-variation-swatches-pro-product-meta.php:160
+msgid "Single variation preview attribute"
+msgstr ""
+
+#: ../includes/class-woo-variation-swatches-pro-product-meta.php:181
+msgid "Default Dropdowns to Button Type"
+msgstr ""
+
+#: ../includes/class-woo-variation-swatches-pro-product-meta.php:188, ../includes/class-woo-variation-swatches-pro-product-meta.php:209, ../includes/hooks.php:132, ../includes/html-product-attribute.php:207
+msgid "Yes"
+msgstr ""
+
+#: ../includes/class-woo-variation-swatches-pro-product-meta.php:189, ../includes/class-woo-variation-swatches-pro-product-meta.php:210, ../includes/hooks.php:90, ../includes/hooks.php:131, ../includes/html-product-attribute.php:142, ../includes/html-product-attribute.php:206
+msgid "No"
+msgstr ""
+
+#: ../includes/class-woo-variation-swatches-pro-product-meta.php:202
+msgid "Default Dropdowns to Image Type"
+msgstr ""
+
+#: ../includes/class-woo-variation-swatches-pro-product-meta.php:212
+msgid "if variation has an image"
+msgstr ""
+
+#: ../includes/class-woo-variation-swatches-pro-product-meta.php:224, ../includes/hooks.php:665
+msgid "Default Image Type Attribute"
+msgstr ""
+
+#: ../includes/class-woo-variation-swatches-pro-product-meta.php:231, ../includes/html-product-attribute.php:27, ../includes/html-product-attribute.php:122, ../includes/html-product-attribute.php:139, ../includes/html-product-attribute.php:205
+msgid "Default"
+msgstr ""
+
+#: ../includes/class-woo-variation-swatches-pro-product-meta.php:257
+msgid "Save swatches settings"
+msgstr ""
+
+#: ../includes/class-woo-variation-swatches-pro-product-meta.php:258
+msgid "Reset to default"
+msgstr ""
+
+#: ../includes/class-woo-variation-swatches-pro-product-meta.php:265, ../includes/class-woo-variation-swatches-pro-product-meta.php:281, ../includes/class-woo-variation-swatches-pro-product-meta.php:299
+msgid "Wrong Nonce"
+msgstr ""
+
+#: ../includes/functions.php:73
+msgid "Radio"
+msgstr ""
+
+#: ../includes/functions.php:307
+msgid "Choose an option"
+msgstr ""
+
+#: ../includes/functions.php:379
+msgid "+%s More"
+msgstr ""
+
+#: ../includes/hooks.php:83, ../includes/html-product-attribute.php:135
+msgid "Show Tooltip"
+msgstr ""
+
+#: ../includes/hooks.php:84
+msgid "Individually show or hide tooltip."
+msgstr ""
+
+#: ../includes/hooks.php:88, ../includes/html-product-attribute.php:58, ../includes/html-product-attribute.php:140
+msgid "Text"
+msgstr ""
+
+#: ../includes/hooks.php:89, ../includes/html-product-attribute.php:59, ../includes/html-product-attribute.php:141
+msgid "Image"
+msgstr ""
+
+#: ../includes/hooks.php:94
+msgid "Tooltip text"
+msgstr ""
+
+#: ../includes/hooks.php:95
+msgid "Tooltip text. Default tooltip text will be term name."
+msgstr ""
+
+#: ../includes/hooks.php:103
+msgid "Tooltip image"
+msgstr ""
+
+#: ../includes/hooks.php:104
+msgid "Tooltip image. Default tooltip text will be term name."
+msgstr ""
+
+#: ../includes/hooks.php:115
+msgid "Image Size"
+msgstr ""
+
+#: ../includes/hooks.php:116
+msgid "Choose Image size, ( this will override global settings )"
+msgstr ""
+
+#: ../includes/hooks.php:126
+msgid "Is Dual Color"
+msgstr ""
+
+#: ../includes/hooks.php:127
+msgid "Make dual color"
+msgstr ""
+
+#: ../includes/hooks.php:139, ../includes/html-product-attribute.php:213
+msgid "Secondary Color"
+msgstr ""
+
+#: ../includes/hooks.php:140
+msgid "Add another color"
+msgstr ""
+
+#: ../includes/hooks.php:183
+msgid "Style"
+msgstr ""
+
+#: ../includes/hooks.php:186
+msgid "Tooltip Styling"
+msgstr ""
+
+#: ../includes/hooks.php:187
+msgid "Change tooltip styles"
+msgstr ""
+
+#: ../includes/hooks.php:192
+msgid "Tooltip background"
+msgstr ""
+
+#: ../includes/hooks.php:193
+msgid "Tooltip background color"
+msgstr ""
+
+#: ../includes/hooks.php:202, ../includes/hooks.php:203
+msgid "Tooltip text color"
+msgstr ""
+
+#: ../includes/hooks.php:212, ../includes/hooks.php:213
+msgid "Tooltip image width"
+msgstr ""
+
+#: ../includes/hooks.php:223
+msgid "Item Styling"
+msgstr ""
+
+#: ../includes/hooks.php:224
+msgid "Change item display style"
+msgstr ""
+
+#: ../includes/hooks.php:229
+msgid "Item border color"
+msgstr ""
+
+#: ../includes/hooks.php:230
+msgid "Swatches item border color. Default is: rgba(0, 0, 0, 0.3)"
+msgstr ""
+
+#: ../includes/hooks.php:239
+msgid "Item border size"
+msgstr ""
+
+#: ../includes/hooks.php:240
+msgid "Swatches item border size. Default is: 1"
+msgstr ""
+
+#: ../includes/hooks.php:245, ../includes/hooks.php:294, ../includes/hooks.php:343
+msgid "px"
+msgstr ""
+
+#: ../includes/hooks.php:250
+msgid "Item text color"
+msgstr ""
+
+#: ../includes/hooks.php:251
+msgid "Swatches item text color. Default is: #000000"
+msgstr ""
+
+#: ../includes/hooks.php:260
+msgid "Item background color"
+msgstr ""
+
+#: ../includes/hooks.php:261
+msgid "Swatches item background color. Default is: #FFFFFF"
+msgstr ""
+
+#: ../includes/hooks.php:272
+msgid "Item Hover Styling"
+msgstr ""
+
+#: ../includes/hooks.php:273
+msgid "Change item hover display style"
+msgstr ""
+
+#: ../includes/hooks.php:278
+msgid "Item hover border color"
+msgstr ""
+
+#: ../includes/hooks.php:279
+msgid "Swatches item hover border color. Default is: #000000"
+msgstr ""
+
+#: ../includes/hooks.php:288
+msgid "Item hover border size"
+msgstr ""
+
+#: ../includes/hooks.php:289
+msgid "Swatches item hover border size. Default is: 3"
+msgstr ""
+
+#: ../includes/hooks.php:299
+msgid "Item hover text color"
+msgstr ""
+
+#: ../includes/hooks.php:300
+msgid "Swatches item hover text color. Default is: #000000"
+msgstr ""
+
+#: ../includes/hooks.php:309
+msgid "Item hover background color"
+msgstr ""
+
+#: ../includes/hooks.php:310
+msgid "Swatches item hover background color. Default is: #FFFFFF"
+msgstr ""
+
+#: ../includes/hooks.php:321
+msgid "Item Selected Styling"
+msgstr ""
+
+#: ../includes/hooks.php:322
+msgid "Change selected item display style"
+msgstr ""
+
+#: ../includes/hooks.php:327
+msgid "Selected item border color"
+msgstr ""
+
+#: ../includes/hooks.php:328
+msgid "Swatches selected item border color. Default is: #000000"
+msgstr ""
+
+#: ../includes/hooks.php:337
+msgid "Selected item border size"
+msgstr ""
+
+#: ../includes/hooks.php:338
+msgid "Swatches selected item border size. Default is: 2"
+msgstr ""
+
+#: ../includes/hooks.php:349
+msgid "Selected item text color"
+msgstr ""
+
+#: ../includes/hooks.php:350
+msgid "Swatches item selected text color. Default is: #000000"
+msgstr ""
+
+#: ../includes/hooks.php:359
+msgid "Selected item  background color"
+msgstr ""
+
+#: ../includes/hooks.php:360
+msgid "Swatches item selected background color. Default is: #FFFFFF"
+msgstr ""
+
+#: ../includes/hooks.php:371
+msgid "Archive / Shop"
+msgstr ""
+
+#: ../includes/hooks.php:373
+msgid "Visual Section"
+msgstr ""
+
+#: ../includes/hooks.php:374
+msgid "Advanced change some visual styles on shop / archive page"
+msgstr ""
+
+#: ../includes/hooks.php:379
+msgid "Enable Swatches"
+msgstr ""
+
+#: ../includes/hooks.php:380
+msgid "Show swatches on archive / shop page."
+msgstr ""
+
+#: ../includes/hooks.php:387
+msgid "Product wrapper"
+msgstr ""
+
+#: ../includes/hooks.php:388
+msgid "Archive product wrapper selector. Default: %s."
+msgstr ""
+
+#: ../includes/hooks.php:396
+msgid "Image selector"
+msgstr ""
+
+#: ../includes/hooks.php:397
+msgid "Archive product image selector to show variation image. You can also use multiple selectors separated by comma (,). Default: %s."
+msgstr ""
+
+#: ../includes/hooks.php:405
+msgid "Add to cart button selector"
+msgstr ""
+
+#: ../includes/hooks.php:406
+msgid "Archive add to cart button selector. Leave blank for default."
+msgstr ""
+
+#: ../includes/hooks.php:413
+msgid "Display position"
+msgstr ""
+
+#: ../includes/hooks.php:414
+msgid "Show archive swatches position. <br> <span style=\"color: red\">Note: Some theme remove default woocommerce hooks that why it's may not work each theme. For theme compatibility <a target=\"_blank\" href=\"%s\">please open a ticket</a>.</span>"
+msgstr ""
+
+#: ../includes/hooks.php:417
+msgid "Before add to cart button"
+msgstr ""
+
+#: ../includes/hooks.php:418
+msgid "After add to cart button"
+msgstr ""
+
+#: ../includes/hooks.php:425
+msgid "Swatches align"
+msgstr ""
+
+#: ../includes/hooks.php:426
+msgid "Swatches align on archive page"
+msgstr ""
+
+#: ../includes/hooks.php:429
+msgid "Left"
+msgstr ""
+
+#: ../includes/hooks.php:430
+msgid "Center"
+msgstr ""
+
+#: ../includes/hooks.php:431
+msgid "Right"
+msgstr ""
+
+#: ../includes/hooks.php:437, ../includes/html-product-attribute.php:52
+msgid "Enable tooltip"
+msgstr ""
+
+#: ../includes/hooks.php:438
+msgid "Show tooltip on archive / shop page."
+msgstr ""
+
+#: ../includes/hooks.php:444
+msgid "Show clear link"
+msgstr ""
+
+#: ../includes/hooks.php:445
+msgid "Show clear link on archive / shop page."
+msgstr ""
+
+#: ../includes/hooks.php:460
+msgid "Item width"
+msgstr ""
+
+#: ../includes/hooks.php:461
+msgid "Variation item width on archive page"
+msgstr ""
+
+#: ../includes/hooks.php:470
+msgid "Item height"
+msgstr ""
+
+#: ../includes/hooks.php:471
+msgid "Variation item height on archive page"
+msgstr ""
+
+#: ../includes/hooks.php:480
+msgid "Item Font Size"
+msgstr ""
+
+#: ../includes/hooks.php:481
+msgid "Archive product variation item font size"
+msgstr ""
+
+#: ../includes/hooks.php:491
+msgid "Special Attributes"
+msgstr ""
+
+#: ../includes/hooks.php:494
+msgid "Single Variation Image Preview"
+msgstr ""
+
+#: ../includes/hooks.php:495
+msgid "Switch variation image when single attribute selected on product page."
+msgstr ""
+
+#: ../includes/hooks.php:500
+msgid "Variation Image Preview"
+msgstr ""
+
+#: ../includes/hooks.php:501
+msgid "Show single attribute variation image based on specific attribute select on product page."
+msgstr ""
+
+#: ../includes/hooks.php:509, ../includes/hooks.php:549, ../includes/hooks.php:592
+msgid "Choose Attribute"
+msgstr ""
+
+#: ../includes/hooks.php:510
+msgid "Choose an attribute to show variation image"
+msgstr ""
+
+#: ../includes/hooks.php:526
+msgid "Preview on Shop Page"
+msgstr ""
+
+#: ../includes/hooks.php:527
+msgid "Enable single attribute variation image based on specific attribute select on shop / archive page also."
+msgstr ""
+
+#: ../includes/hooks.php:534
+msgid "Catalog mode"
+msgstr ""
+
+#: ../includes/hooks.php:535
+msgid "Show single attribute as catalog mode on shop / archive pages"
+msgstr ""
+
+#: ../includes/hooks.php:540
+msgid "Show Single Attribute"
+msgstr ""
+
+#: ../includes/hooks.php:541
+msgid "Show Single Attribute taxonomies on archive page"
+msgstr ""
+
+#: ../includes/hooks.php:550
+msgid "Choose an attribute to show on catalog mode"
+msgstr ""
+
+#: ../includes/hooks.php:558
+msgid "Catalog Mode Display Event"
+msgstr ""
+
+#: ../includes/hooks.php:559
+msgid "Show catalog mode image display event."
+msgstr ""
+
+#: ../includes/hooks.php:562
+msgid "on Click"
+msgstr ""
+
+#: ../includes/hooks.php:563
+msgid "on Hover"
+msgstr ""
+
+#: ../includes/hooks.php:570
+msgid "Attribute display limit"
+msgstr ""
+
+#: ../includes/hooks.php:571
+msgid "Catalog mode attribute display limit. Default is 0. Means no limit."
+msgstr ""
+
+#: ../includes/hooks.php:577
+msgid "Large Size Attribute Section"
+msgstr ""
+
+#: ../includes/hooks.php:578
+msgid "Make a attribute taxonomies size large on single product"
+msgstr ""
+
+#: ../includes/hooks.php:583
+msgid "Show Attribute In Large"
+msgstr ""
+
+#: ../includes/hooks.php:584
+msgid "Show Attribute taxonomies in large size"
+msgstr ""
+
+#: ../includes/hooks.php:593
+msgid "Choose an attribute to make it large"
+msgstr ""
+
+#: ../includes/hooks.php:601
+msgid "Width"
+msgstr ""
+
+#: ../includes/hooks.php:602
+msgid "Large variation item width"
+msgstr ""
+
+#: ../includes/hooks.php:612
+msgid "Height"
+msgstr ""
+
+#: ../includes/hooks.php:613
+msgid "Large variation item height"
+msgstr ""
+
+#: ../includes/hooks.php:623
+msgid "Font Size"
+msgstr ""
+
+#: ../includes/hooks.php:624
+msgid "Large variation font size"
+msgstr ""
+
+#: ../includes/hooks.php:634, ../includes/hooks.php:643
+msgid "License Key"
+msgstr ""
+
+#: ../includes/hooks.php:636
+msgid "License Section"
+msgstr ""
+
+#: ../includes/hooks.php:637
+msgid "Product license key"
+msgstr ""
+
+#: ../includes/hooks.php:644
+msgid "Please add product license key and add your domain(s) on <a target=\"_blank\" href=\"%s\">GetWooPlugins.com -> My Downloads</a> to get automatic update."
+msgstr ""
+
+#: ../includes/hooks.php:658
+msgid "Auto Dropdowns to Image"
+msgstr ""
+
+#: ../includes/hooks.php:659
+msgid "Convert default dropdowns to image type if variation has an image."
+msgstr ""
+
+#: ../includes/hooks.php:667
+msgid "First attribute"
+msgstr ""
+
+#: ../includes/hooks.php:668
+msgid "Maximum attribute"
+msgstr ""
+
+#: ../includes/hooks.php:669
+msgid "Minimum attribute"
+msgstr ""
+
+#: ../includes/hooks.php:684
+msgid "Disable ajax threshold"
+msgstr ""
+
+#: ../includes/hooks.php:685
+msgid "Disable ajax variation threshold to make all variation work like non ajax style."
+msgstr ""
+
+#: ../includes/hooks.php:691
+msgid "Out of stock variation"
+msgstr ""
+
+#: ../includes/hooks.php:692
+msgid "Disable out of stock variation product item."
+msgstr ""
+
+#: ../includes/hooks.php:699
+msgid "Generate variation url"
+msgstr ""
+
+#: ../includes/hooks.php:700
+msgid "Generate sharable url based on selected variation attributes."
+msgstr ""
+
+#: ../includes/html-product-attribute.php:18, ../includes/html-product-attribute.php:109
+msgid "Click to toggle"
+msgstr ""
+
+#: ../includes/html-product-attribute.php:21
+msgid "Attribute Type"
+msgstr ""
+
+#: ../includes/html-product-attribute.php:40
+msgid "Shape style"
+msgstr ""
+
+#: ../includes/html-product-attribute.php:45
+msgid "Rounded Shape"
+msgstr ""
+
+#: ../includes/html-product-attribute.php:46
+msgid "Squared Shape"
+msgstr ""
+
+#: ../includes/html-product-attribute.php:57
+msgid "Hide"
+msgstr ""
+
+#: ../includes/html-product-attribute.php:65
+msgid "Attribute image size"
+msgstr ""
+
+#: ../includes/html-product-attribute.php:112
+msgid "Type"
+msgstr ""
+
+#: ../includes/html-product-attribute.php:149
+msgid "Tooltip Text"
+msgstr ""
+
+#: ../includes/html-product-attribute.php:157
+msgid "Tooltip Image"
+msgstr ""
+
+#: ../includes/html-product-attribute.php:167, ../includes/html-product-attribute.php:184
+msgid "Upload / Add image"
+msgstr ""
+
+#: ../includes/html-product-attribute.php:168, ../includes/html-product-attribute.php:185
+msgid "Remove image"
+msgstr ""
+
+#: ../includes/html-product-attribute.php:175
+msgid "Choose Image"
+msgstr ""
+
+#: ../includes/html-product-attribute.php:192
+msgid "Color"
+msgstr ""
+
+#: ../includes/html-product-attribute.php:201
+msgid "Is dual color"
+msgstr ""
+
+#: ../includes/themes-support.php:847, ../includes/themes-support.php:872
+msgid "Select options"
+msgstr ""
+
+#: ../includes/themes-support.php:853, ../includes/themes-support.php:876
+msgid "Add to cart"
+msgstr ""
+
+#: ../woo-variation-swatches-pro.php:245
+msgid "Are you sure you want to reset it to default setting?"
+msgstr ""
+
+#: ../woo-variation-swatches-pro.php:283
+msgid "Variation Swatches for WooCommerce"
+msgstr ""
+
+#: ../woo-variation-swatches-pro.php:291
+msgid "<strong>Variation Swatches for WooCommerce - Pro</strong> is an add-on of "
+msgstr ""

@@ -1,0 +1,18 @@
+Monday, 07-Dec-2020 18:29:11 - backup started
+Monday, 07-Dec-2020 18:29:11 - wp version     : 5.5.3
+Monday, 07-Dec-2020 18:29:11 - php version    : 7.4.12
+Monday, 07-Dec-2020 18:29:11 - mysql version  : 5.5.5
+Monday, 07-Dec-2020 18:29:11 - memory limit   : 1024M
+Monday, 07-Dec-2020 18:29:11 - execution time : 600
+Monday, 07-Dec-2020 18:29:11 - mysql timeout  : 
+Monday, 07-Dec-2020 18:29:11 - socket timeout : 600
+Monday, 07-Dec-2020 18:29:11 - files larger than 25 MB will be excluded from the backup
+Monday, 07-Dec-2020 18:29:11 - generating file list
+Monday, 07-Dec-2020 18:29:11 - number of files to include in the archive is 8683, and their uncompressed size is 113.21 MB
+Monday, 07-Dec-2020 18:29:11 - finished generating file list
+Monday, 07-Dec-2020 18:29:11 - database backup started
+Monday, 07-Dec-2020 18:29:11 - backing up tables with "wp1o_" prefix
+Monday, 07-Dec-2020 18:29:11 - number of tables to backup - 46
+Monday, 07-Dec-2020 18:29:11 - database backup finished
+Monday, 07-Dec-2020 18:29:11 - archiving files using ziparchive
+Monday, 07-Dec-2020 18:29:20 - backup finished
